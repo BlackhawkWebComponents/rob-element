@@ -1,0 +1,7 @@
+{
+  "name": "rob-element#gh-pages",
+  "private": true,
+  "dependencies": {
+    "rob-element": "BlackhawkWebComponents/rob-element#master"
+  }
+}
